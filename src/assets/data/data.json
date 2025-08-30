@@ -1,0 +1,18 @@
+[
+    {
+        "firstName":"John",
+        "lastName":"Doe",
+        "gender": "male",
+        "height": 178,
+        "birth" : "1992-07-14",
+        "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWQOAG-1bEzYoifZdDWP9u-y5WUIDQZ8VeA&s"
+    },
+    {
+      "firstName":"Delores",
+        "lastName":"Obrien",
+        "gender": "female",
+        "height": 172,
+        "birth" : "1988-05-11",
+        "picture":"https://img.freepik.com/vector-gratis/mujer-feliz-cabello-castano_1308-171014.jpg?semt=ais_hybrid&w=740&q=80"  
+    }
+]
