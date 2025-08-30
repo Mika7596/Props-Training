@@ -1,0 +1,8 @@
+div .greet-container{
+    border: 2px solid salmon;
+    border-radius: 8px;
+    margin: 10px 25px; 
+    width: 33%;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
