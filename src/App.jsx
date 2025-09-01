@@ -5,6 +5,7 @@ import Exercise3 from './views/Exercise3'
 import Exercise4 from './views/Exercise4'
 import Exercise5 from './views/Exercise5'
 import Exercise6 from './views/Exercise6'
+import Exercise7 from './views/Exercise7'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
     <Exercise4></Exercise4>
     <Exercise5></Exercise5>
     <Exercise6></Exercise6>
+    <Exercise7></Exercise7>
     </>
   )
 }

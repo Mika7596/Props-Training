@@ -1,0 +1,23 @@
+.driver-card-container{
+    width: 65%;
+    margin: auto;
+    background-color: aqua;
+    display: flex;
+    margin-bottom: 20px;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 50px;
+}
+.driver-card-container div:first-child{
+    margin-right: 30px;
+}
+.driver-img-container{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.driver-img-container img{
+    max-width: 100%
+}
